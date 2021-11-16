@@ -9,7 +9,7 @@ This repository includes the Vivado project files of robot car project for my EC
 [Click here to watch a short video demonstration.](https://youtu.be/ALcJU5NfLdA)
 
 # Description
-Implemented using a Zedboard and written in C, this project involves Vivado's IP Integrator feature and allows interaction with the board's processor. Four DC motors with encoders are used,while a servo controls the attached gripper. For motion control, two Pmod Joysticks ([JSTK2](https://digilent.com/reference/pmod/pmodjstk2/start)) set the directions for the motors.
+Implemented using a Zedboard and written in C, this project involves Vivado's IP Integrator feature and allows interaction with the board's processor. Four DC motors with encoders are used, while a servo controls the attached gripper. For motion control, two Pmod Joysticks ([JSTK2](https://digilent.com/reference/pmod/pmodjstk2/start)) set the directions for the motors.
 
 Moreover, in this design, interrupts are enabled for the push buttons in order to configure the speed of the DC motors.
 
